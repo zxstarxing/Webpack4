@@ -32,7 +32,7 @@ module.exports = {
 ```
 
 ## 开始使用webpack的命令
-------
+
     在本目录下终端或者命令行使用以下命令
 >   webpack 
     
