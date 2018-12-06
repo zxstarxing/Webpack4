@@ -1,6 +1,6 @@
 # webpack教程
 
-##基本配置
+## 基本配置
 ------
 1. 如何安装webpack呢
 * 使用 npm 命令，你的当前文件中会多出 **node_modules** 文件夹和 **package-lock.json** 的文件
@@ -31,7 +31,7 @@ module.exports = {
 };
 ```
 
-##开始使用webpack的命令
+## 开始使用webpack的命令
 ------
     在本目录下终端或者命令行使用以下命令
 >   webpack 
