@@ -1,7 +1,7 @@
 # webpack教程
 
 ## 基本配置
-------
+
 1. 如何安装webpack呢
 * 使用 npm 命令，你的当前文件中会多出 **node_modules** 文件夹和 **package-lock.json** 的文件
 > npm install --save-dev webpack
